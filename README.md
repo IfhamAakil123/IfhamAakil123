@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifhamaakil123" alt="ifhamaakil123" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence Internship**
+- 🔭 I’m currently doing an **Internship**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 🤝 I’m looking for help with **volunteer works**
+- 🤝 I’m looking for internship in **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IfhamAakil123/IfhamAakil123/tree/main](https://github.com/IfhamAakil123/IfhamAakil123/tree/main)
 
